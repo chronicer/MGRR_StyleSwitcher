@@ -1,0 +1,9 @@
+D:\MGR\Style Switcher new\src\cheat\cheat.cpp;D:\MGR\Style Switcher new\src\Release\cheat.obj
+D:\MGR\Style Switcher new\src\dllmain.cpp;D:\MGR\Style Switcher new\src\Release\dllmain.obj
+D:\MGR\Style Switcher new\src\impl\win32_impl.cpp;D:\MGR\Style Switcher new\src\Release\win32_impl.obj
+D:\MGR\Style Switcher new\src\minhook\src\buffer.c;D:\MGR\Style Switcher new\src\Release\buffer.obj
+D:\MGR\Style Switcher new\src\minhook\src\hde\hde32.c;D:\MGR\Style Switcher new\src\Release\hde32.obj
+D:\MGR\Style Switcher new\src\minhook\src\hde\hde64.c;D:\MGR\Style Switcher new\src\Release\hde64.obj
+D:\MGR\Style Switcher new\src\minhook\src\hook.c;D:\MGR\Style Switcher new\src\Release\hook.obj
+D:\MGR\Style Switcher new\src\minhook\src\trampoline.c;D:\MGR\Style Switcher new\src\Release\trampoline.obj
+D:\MGR\Style Switcher new\src\pch.cpp;D:\MGR\Style Switcher new\src\Release\pch.obj

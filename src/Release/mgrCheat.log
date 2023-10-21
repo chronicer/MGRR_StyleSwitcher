@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (Release\) содержит файлы, которые используются совместно с другим проектом (MGRModMenu.vcxproj, PlayableArmstrong.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  cheat.cpp
+D:\MGR\Style Switcher new\src\cheat\cheat.cpp(88,22): warning C4018: <: несоответствие типов со знаком и без знака
+  mgrCheat.vcxproj -> D:\MGR\Style Switcher new\Release\Style Switcher New.asi
