@@ -61,8 +61,4 @@ namespace cheat
 	const char* GetAnimationNameById(void* pAnimUnit, int animId);
 	void AnimationChanger(unsigned int pAnimUnit, std::string* Style1, std::string* Style2, std::string Type, bool IsPlayer);
 	void AnimationChangerX(unsigned int pAnimUnit, std::string Type, bool IsPlayer);
-
-
-
-
 }
